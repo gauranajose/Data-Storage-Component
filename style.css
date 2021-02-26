@@ -36,7 +36,7 @@ main {
 
 #tools {
     background-color: var(--primary-color);
-    padding: 30px 150px 30px 30px;
+    padding: 30px 100px 30px 30px;
     border-radius: 10px;
     border-top-right-radius: 100px;
 }
@@ -72,7 +72,7 @@ main {
 }
 
 #storage-container {
-    width: 600px;
+    width: 400px;
     height: 20px;
     background: var(--background-color);
     margin-top: 15px;
